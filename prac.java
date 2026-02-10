@@ -1,5 +1,5 @@
 // Your first Java program!
-public class HelloWorld {
+public class Prac {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
     }
